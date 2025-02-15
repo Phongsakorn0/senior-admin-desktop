@@ -20,6 +20,8 @@ gloo-net = "0.2"
 log = "0.4"
 console_log = "0.2"
 gloo-console = "0.2"
+gloo-file = "0.3"
+base64 = "0.21"
 
 [workspace]
 members = ["src-tauri"]
